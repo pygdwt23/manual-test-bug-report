@@ -24,4 +24,4 @@
 || Sort by new product |	User have searched a product |	1. Click "new product" button	| Sort by new product success |	As Expected |	Pass |
 | Add to cart |	Add single product to cart |	User have logged in alfacart | > User search product, e.g: bread > User select product > User click ""add to cart"" button |	1 product added to cart |	As Expected |	Pass |
 || Add 1000 product to cart |	User have logged in alfacart |	> User search product, e.g: bread > User select product > User select 1000 quantity > User click ""add to cart"" button |	Error message shown |	As Expected |	Pass |
-| Checkout | Verify checkout page | User have added product to cart | 
+| Checkout | Verify checkout page | User have added product to cart | > User click "checkout" button | User redirected to checkout page | As Expected | Pass |
